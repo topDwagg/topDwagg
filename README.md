@@ -1,3 +1,3 @@
 Leveling up!
 
-[![topDwagg's GitHub stats](https://github-stats-extended.vercel.app/api?username=topDwagg)](https://github.com/stats-organization/github-stats-extended)
+![topDwagg's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topDwagg)
